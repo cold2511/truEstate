@@ -242,4 +242,4 @@ This project fulfills all assignment requirements:
 * Modular Node backend
 * Clean React UI
 
-If you need the deployment guide or want me to generate the submission message for your assignment, just tell me!
+I would be very thankful to the team for assigning me this wonderful task !!!!!
