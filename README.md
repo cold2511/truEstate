@@ -1,4 +1,15 @@
+
 # 📘 Retail Sales Management – Assignment
+
+
+## 🚀 Live Demo
+
+### Frontend (Vercel)
+https://tru-estate.vercel.app/
+
+### Backend (Render)
+https://truestate-3jvo.onrender.com/api/sales
+
 
 This project implements a **Retail Sales Management System** featuring powerful **Search**, **Filtering**, **Sorting**, and **Pagination** functionalities. The system is built using **React + Vite (Frontend)** and **Node.js + Express (Backend)**, with a CSV dataset as the data source.
 
