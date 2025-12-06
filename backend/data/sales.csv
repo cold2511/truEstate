@@ -1,0 +1,21 @@
+Transaction ID,Date,Customer ID,Customer Name,Phone Number,Gender,Age,Customer Region,Customer Type,Product ID,Product Name,Brand,Product Category,Tags,Quantity,Price per Unit,Discount Percentage,Total Amount,Final Amount,Payment Method,Order Status,Delivery Type,Store ID,Store Location,Salesperson ID,Employee Name
+T001,2025-01-01,C001,Rahul Sharma,9876543210,Male,28,North,Regular,P001,Smartphone X,BrandA,Electronics,"mobile,smartphone",1,20000,10,20000,18000,UPI,Delivered,Home Delivery,S001,Delhi,E001,Amit Verma
+T002,2025-01-03,C002,Ananya Gupta,9876500000,Female,32,West,Premium,P002,Laptop Pro,BrandB,Electronics,"laptop,work",2,50000,5,100000,95000,Credit Card,Delivered,Store Pickup,S002,Mumbai,E002,Neha Singh
+T003,2025-01-04,C003,Vikram Rao,9999999999,Male,40,South,Regular,P003,Running Shoes,BrandC,Fashion,"shoes,sports",3,3000,0,9000,9000,Cash,Pending,Home Delivery,S003,Bangalore,E003,Rohit Kumar
+T004,2025-01-05,C004,Pooja Nair,8888888888,Female,24,East,New,P004,Headphones,BrandD,Electronics,"audio,music",1,3000,15,3000,2550,UPI,Delivered,Home Delivery,S004,Kolkata,E004,Shreya Iyer
+T005,2025-01-06,C005,Manish Tiwari,9000000000,Male,35,North,Regular,P005,Smartwatch Z,BrandE,Electronics,"watch,fitness",1,8000,5,8000,7600,UPI,Delivered,Store Pickup,S001,Delhi,E001,Amit Verma
+T006,2025-01-07,C006,Shreya Patel,9123456780,Female,29,West,Premium,P006,Formal Shirt,BrandF,Fashion,"shirt,formal",2,1500,0,3000,3000,Credit Card,Delivered,Home Delivery,S002,Mumbai,E002,Neha Singh
+T007,2025-01-08,C007,Aakash Singh,9234567810,Male,27,South,Regular,P007,Bluetooth Speaker,BrandG,Electronics,"audio,speaker",1,2500,10,2500,2250,UPI,Pending,Home Delivery,S003,Bangalore,E003,Rohit Kumar
+T008,2025-01-09,C008,Divya Mehta,9345678910,Female,31,East,New,P008,Office Chair,BrandH,Furniture,"chair,office",1,7000,8,7000,6440,Credit Card,Delivered,Store Pickup,S004,Kolkata,E004,Shreya Iyer
+T009,2025-01-10,C009,Harshit Jain,9456789123,Male,22,North,Regular,P009,Backpack,BrandI,Fashion,"bag,travel",1,1200,0,1200,1200,Cash,Delivered,Home Delivery,S001,Delhi,E001,Amit Verma
+T010,2025-01-11,C010,Meera Joshi,9567891234,Female,34,West,Premium,P010,Tablet M,BrandJ,Electronics,"tablet,portable",1,30000,7,30000,27900,UPI,Delivered,Store Pickup,S002,Mumbai,E002,Neha Singh
+T011,2025-01-12,C011,Nitin Kumar,9678912345,Male,30,South,Regular,P011,Wireless Mouse,BrandK,Electronics,"mouse,computer",2,800,5,1600,1520,UPI,Pending,Home Delivery,S003,Bangalore,E003,Rohit Kumar
+T012,2025-01-13,C012,Anjali Desai,9789123456,Female,26,East,New,P012,Printer Ink,BrandL,Stationery,"ink,office",1,600,0,600,600,Cash,Delivered,Home Delivery,S004,Kolkata,E004,Shreya Iyer
+T013,2025-01-14,C013,Sachin Rao,9891234567,Male,37,North,Regular,P013,LED Monitor,BrandM,Electronics,"monitor,computer",1,12000,12,12000,10560,Credit Card,Delivered,Home Delivery,S001,Delhi,E001,Amit Verma
+T014,2025-01-15,C014,Kavita Shah,9991112223,Female,30,West,Premium,P014,Hair Dryer,BrandN,Beauty,"hair,beauty",1,2000,10,2000,1800,UPI,Delivered,Store Pickup,S002,Mumbai,E002,Neha Singh
+T015,2025-01-16,C015,Rohan Malhotra,9892223334,Male,45,South,Regular,P015,Keyboard,BrandO,Electronics,"keyboard,computer",1,1500,5,1500,1425,Credit Card,Delivered,Home Delivery,S003,Bangalore,E003,Rohit Kumar
+T016,2025-01-17,C016,Radha Iyer,9765432190,Female,27,East,New,P016,Electric Kettle,BrandP,Home Appliance,"kitchen,home",1,1800,5,1800,1710,UPI,Delivered,Home Delivery,S004,Kolkata,E004,Shreya Iyer
+T017,2025-01-18,C017,Arjun Patel,9632109876,Male,33,North,Regular,P017,Pen Set,BrandQ,Stationery,"pen,office",3,200,0,600,600,Cash,Pending,Store Pickup,S001,Delhi,E001,Amit Verma
+T018,2025-01-19,C018,Simran Kaur,9543210987,Female,28,West,Premium,P018,Powerbank 10000mAh,BrandR,Electronics,"powerbank,charge",1,1500,10,1500,1350,UPI,Delivered,Home Delivery,S002,Mumbai,E002,Neha Singh
+T019,2025-01-20,C019,Lokesh Jain,9234560987,Male,31,South,Regular,P019,Wireless Charger,BrandS,Electronics,"charger,wireless",1,1000,5,1000,950,Credit Card,Delivered,Store Pickup,S003,Bangalore,E003,Rohit Kumar
+T020,2025-01-21,C020,Preeti Sinha,9123009876,Female,29,East,New,P020,Desk Lamp,BrandT,Furniture,"lamp,study",1,900,0,900,900,Cash,Delivered,Home Delivery,S004,Kolkata,E004,Shreya Iyer
